@@ -9,4 +9,7 @@ Bonus Track: make the Profit method return the "annualized return" of the portfo
 
 correr en terminal `node .\portfolio.js fecha2 fecha1` donde `fecha1` y `fecha2` son Strings de fechas en el formato 'YYYY-MM-DD'
 
+# Restricciones
+
+Las fechas aceptadas para esta tarea van desde el 1 de enero del año 2022 hasta el 30 de diciembre del mismo año. La lista de precios está harcodeada.
 
